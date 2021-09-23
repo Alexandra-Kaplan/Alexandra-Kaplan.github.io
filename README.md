@@ -6,6 +6,7 @@ My University's [department webpage](https://journalism.cas.lehigh.edu/) is link
 My most recent published article in the [Brown and White](https://thebrownandwhite.com/2021/09/02/lehigh-womens-soccer-looks-to-build-consistency/) can be found here!
 
 ![This is me](https://thebrownandwhite.com/wp-content/uploads/2021/09/ali-kaplan_web-1.jpg)
+
 This is an infographic about where undergraduate students at Lehigh live on campus. I used the wbesite Canva.com to create this page, and the data source that I used is [Student Enrollment at Lehigh](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 # Where Do Lehigh Undergraduate Students Live?
 ![Where Do Lehigh Students Live](https://user-images.githubusercontent.com/90854928/134537575-21b3f784-dd57-4b80-a5de-f665308f915b.png)
