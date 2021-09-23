@@ -10,5 +10,5 @@ My most recent published article in the [Brown and White](https://thebrownandwhi
 
 # Where Do Lehigh Undergraduate Students Live?
 
-This is an infographic about where undergraduate students at Lehigh live on campus. I used the wbesite Canva.com to create this page, and the data source that I used is [Student Enrollment at Lehigh](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
+This is an infographic about where undergraduate students at Lehigh live on campus. I used the wbesite Canva.com to create this page, and the data source that I used is [Student Enrollment at Lehigh](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). The most common place on campus for students to live is in residence halls (this is probably due to the requirement for first and second year students to live on campus). Sororities and fraternities make up some of the lowest numbers due to the fraction of students that actually participate in Greek Life t Lehigh. The off-campus number consists of students that are mostly Juniors and Seniors that do not choose to live in their sorority/fraternity house if they are a part of an organization.
 ![Where Do Lehigh Students Live](https://user-images.githubusercontent.com/90854928/134537575-21b3f784-dd57-4b80-a5de-f665308f915b.png)
