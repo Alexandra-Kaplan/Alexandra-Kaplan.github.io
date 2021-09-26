@@ -14,4 +14,4 @@ This is an infographic about where undergraduate students at Lehigh live on camp
 ![Where Do Lehigh Students Live](https://user-images.githubusercontent.com/90854928/134537575-21b3f784-dd57-4b80-a5de-f665308f915b.png)
 
 # Which Mental Health Issues are Negatively Impacting the Academic Performance of College Students? 
-![Which Mental Health Issues are Negatively Impacting the Academic Performance of College students?](https://www.canva.com/design/DAErJFG-xV4/7AeIswQf4Tn1-wAfxjoUrg/view?utm_content=DAErJFG-xV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Which Mental Health Issues are Negatively Impacting the Academic Performance of College students?](https://www.canva.com/design/DAErJFG-xV4/7AeIswQf4Tn1-wAfxjoUrg/view?utm_content=DAErJFG-xV4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). 
