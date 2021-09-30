@@ -20,4 +20,8 @@ This is an infographic about student mental health issues. Specifically, this re
 
 ![Which Mental Health Issues are Negatively Impacting the Academic Performance of College students?](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/Stress%20Management.png?raw=true)
 
+# Lafayette Lehigh Rivalry
+
+This is a timeline about the long-standing rivalry between Lehigh University and Lafayette College. The timeline represents various points in the history of the rivalry that are the most noteworthy or memorable. Some examples of this include the first game, the longest run, the overtime catch, the 150th game, and the most recent game which was cancelled due to the pandemic. As shown, some years Lafayette will dominate while others, Lehigh takes the victory.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xiNI0Rtxx3-ojSJMabC3f7JojNYJ54vzDG9K5J5VpUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
