@@ -19,3 +19,5 @@ This is an infographic about student mental health issues. Specifically, this re
 
 
 ![Which Mental Health Issues are Negatively Impacting the Academic Performance of College students?](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/Stress%20Management.png?raw=true)
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xiNI0Rtxx3-ojSJMabC3f7JojNYJ54vzDG9K5J5VpUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
