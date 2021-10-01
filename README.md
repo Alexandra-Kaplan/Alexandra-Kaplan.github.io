@@ -27,5 +27,5 @@ This is a timeline about the long-standing rivalry between Lehigh University and
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xiNI0Rtxx3-ojSJMabC3f7JojNYJ54vzDG9K5J5VpUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
  
  
-# Instagram Milestones 
+# Instagram Milestones  
  <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wHhRAajrNFDeoUyO4PgrVc8rN3htCCMc3ocQDC3DET4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
