@@ -29,7 +29,7 @@ This is a timeline about the long-standing rivalry between Lehigh University and
  
 # Instagram Milestones  
 
-This is a timeline about the milestones of the app **Instagram**. This timelines represents some big moments for the app in terms of growth, development, and changes in features. Looking through this timelines is a fun way to see how instagram has become such a big part of society. Additionally, it is interesting to see how the app takes inspiration from other sites and competes with them to stay relevant in the social media world. Information about instagram for this timelines was gathered from this [Wikepedia]((https://en.wikipedia.org/wiki/Timeline_of_Instagram)) page! 
+This is a timeline about the milestones of the app **Instagram**. This timelines represents some big moments for the app in terms of growth, development, and changes in features. Looking through this timelines is a fun way to see how instagram has become such a big part of society. Additionally, it is interesting to see how the app takes inspiration from other sites and competes with them to stay relevant in the social media world. Information about instagram for this timelines was gathered from this [Wikepedia](https://en.wikipedia.org/wiki/Timeline_of_Instagram)  page! 
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wHhRAajrNFDeoUyO4PgrVc8rN3htCCMc3ocQDC3DET4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
