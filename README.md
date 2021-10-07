@@ -38,4 +38,4 @@ This is a timeline about the milestones of the app **Instagram**. This timelines
 
 This is a horizonetal bar chart that was made in [Chart Builder](https://quartz.github.io/Chartbuilder/). This data pertains to the percentages of undergraduate Lehigh students per college that enrolled in 2019. The chart shows the most enrollment for the College of Arts and Sciences, and the least enrollment for General College Div. This chart can help visualize the amount of students in each college at the University in simpler terms, and give insight to the most popular versus least popular colleges at Lehigh.
 
-https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/LehighUndergraduateInvolvement.png?raw=true
+(https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/LehighUndergraduateInvolvement.png?raw=true) 
