@@ -34,13 +34,13 @@ This is a timeline about the milestones of the app **Instagram**. This timelines
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1wHhRAajrNFDeoUyO4PgrVc8rN3htCCMc3ocQDC3DET4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
 
-## Lehigh Undergraduate Involvement 
+# Lehigh Undergraduate Involvement 
 
 This is a horizontal bar chart that was made in [Chart Builder](https://quartz.github.io/Chartbuilder/). This data pertains to the percentages of undergraduate Lehigh students per college that enrolled in 2019. The chart shows the most enrollment for the College of Arts and Sciences, and the least enrollment for General College Div. This chart can help visualize the amount of students in each college at the University in simpler terms, and give insight to the most popular versus least popular colleges at Lehigh.
 
 ![Lehigh Undergraduate Involvement](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/LehighUndergraduateInvolvement.png?raw=true)
 
-## Trader Joes Employee Degree Level
+# Trader Joes Employee Degree Level
 
 ![Trader Joes Employee Degree Level](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/TraderJoes.png?raw=true)
 
