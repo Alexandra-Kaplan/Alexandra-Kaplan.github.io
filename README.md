@@ -39,3 +39,9 @@ This is a timeline about the milestones of the app **Instagram**. This timelines
 This is a horizontal bar chart that was made in [Chart Builder](https://quartz.github.io/Chartbuilder/). This data pertains to the percentages of undergraduate Lehigh students per college that enrolled in 2019. The chart shows the most enrollment for the College of Arts and Sciences, and the least enrollment for General College Div. This chart can help visualize the amount of students in each college at the University in simpler terms, and give insight to the most popular versus least popular colleges at Lehigh.
 
 ![Lehigh Undergraduate Involvement](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/LehighUndergraduateInvolvement.png?raw=true)
+
+## Trader Joes Employee Degree Level
+
+![Trader Joes Employee Degree Level](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/TraderJoes.png?raw=true)
+
+This is a horizontal bar chart about the degree level of employees that work at the popular supermarket Trader Joes. The categories range from a high school diploma to a masters degree and includes degree types in between. The majority of TJ employees have a bachelors degree, and the the minority of employees have thier masters/other. This data may be helpful to look at through a horizontal bar chart for several reasons–a potential employee may want to access information about what kind of degree they may want/need to gain a position at the store. Additionally, it is interesting to note that the majority of workers have a college degree: Both bachelors and masters degrees make up 57% of total employees. This might surprise some people, considering the assumption that people who work in grocery stores are mostly uneducated individuals or teenagers. This also gives some insight about how the Trader Joes chain may be different from other supermarkets or hint at their recent success within the past decade or so.
