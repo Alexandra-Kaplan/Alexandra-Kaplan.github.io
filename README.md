@@ -17,6 +17,9 @@ This is an infographic about where undergraduate students at Lehigh live on camp
 
 This is an infographic about student mental health issues. Specifically, this relates to college students and academic success in a survey taken in 2015. The most common type of issue that college students reported was stress. Following stress, anxiety and sleep difficulties come in. Lastly, 14% of students reported that depression is a reason for academic problems in school. These four categories were the largest influencers of academic struggle. The data source that I used is [Consequences of Student Mental Health Issues](https://www.sprc.org/colleges-universities/consequences). The source also included information about the consequences for the student, others, campuses, communities, and larger society as well. I chose this data set because as a college student, I can relate to many of these stressors in relation to my success and grades. I feel like this is at topic that is not talked about enough, and individuals can benefit from accessing this data in a way that is both easy to undertand and informative/relevant. The data was collected by the Suicide Prevention Resource Center, which is a federally founded organization and a reliable source.
 
+# Tableau Practice
+![Tableau Practice](https://public.tableau.com/views/GenderDifferenceandPartyLocation/GenderDifferenceandPartyLocationPreference?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 
 ![Which Mental Health Issues are Negatively Impacting the Academic Performance of College students?](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/Stress%20Management.png?raw=true)
 
