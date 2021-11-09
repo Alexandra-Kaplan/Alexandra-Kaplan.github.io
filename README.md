@@ -5,6 +5,8 @@ I am in the College of Arts and Sciences at Lehigh and hope to obtain a minor in
 My University's [department webpage](https://journalism.cas.lehigh.edu/) is linked here!
 My most recent published article in the [Brown and White](https://thebrownandwhite.com/2021/09/02/lehigh-womens-soccer-looks-to-build-consistency/) can be found here!
 
+![Pixton Cartoon](https://github.com/Alexandra-Kaplan/Alexandra-Kaplan.github.io/blob/main/Screen%20Shot%202021-11-09%20at%2011.05.03%20AM.png?raw=true)
+
 ![This is me](https://thebrownandwhite.com/wp-content/uploads/2021/09/ali-kaplan_web-1.jpg)
 
 
